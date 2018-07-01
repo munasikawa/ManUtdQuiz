@@ -213,6 +213,8 @@ public class MainActivity extends AppCompatActivity {
         Toast toast = Toast.makeText(context, resultsDisplay, duration);
         toast.setGravity(Gravity.CENTER, 0, 0);
         toast.show();
+
+
     }
 }
 
