@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ManUtd App</string>
+
+    <string name="question1">1. Which United player was involved in a dressing room argument in 2003 with Alex Ferguson?</string>
+    <string name="question1_choice1">Keane</string>
+    <string name="question1_choice2">Neville</string>
+    <string name="question1_choice3">Beckham</string>
+
+    <string name="question2">2. Which City did United play the 2008 Champions League Final?</string>
+
+    <string name="question3">3. Name Two Different players that wore the Number 7 shirt at United.</string>
+    <string name="question3_choice1">Valencia</string>
+    <string name="question3_choice2">Luis Nani</string>
+    <string name="question3_choice3">Michael Owen</string>
+    <string name="question3_choice4">Van Persie</string>
+
+    <string name="question4">4. What is the first name of the Bulgarian striker that was signed from Tottenham?</string>
+
+    <string name="question5">5. in 2014-2015 League Cup play, Manchester United was thrashed by which League One side?</string>
+    <string name="question5_choice1">Leeds United</string>
+    <string name="question5_choice2">Milton Keynes Dons</string>
+    <string name="question5_choice3">Bristol City</string>
+
+    <string name="question6">6. Which Country does Diego Forlan come from?</string>
+
+    <string name="question7">7. Which Two Players were signed from other clubs by Louis Van Gaal?</string>
+    <string name="question7_choice1">Marcus Rashford</string>
+    <string name="question7_choice2">Juan Mata</string>
+    <string name="question7_choice3">Anthony Martial</string>
+    <string name="question7_choice4">Daley Blind</string>
+
+    <string name="question8">8. Robin Van Persie scored how many Premier League goals in the 2013-2014 season?</string>
+
+    <string name="question9">9. Who was voted Sir Matt Busby Player of the year in 2011-2012 season?</string>
+    <string name="question9_choice1">Javier Hernandez</string>
+    <string name="question9_choice2">Antonio Valencia</string>
+
+    <string name="question10">10. Who took over as Manchester United shirt sponsor in 2014?</string>
+
+    <string name="submit_answers">Submit Answers</string>
+
+
+</resources>
